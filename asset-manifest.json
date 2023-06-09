@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exam-game/static/css/main.0d936159.css",
+    "main.js": "/exam-game/static/js/main.0988a86e.js",
+    "static/media/paper.png": "/exam-game/static/media/paper.28d80951ba46ccd9187d.png",
+    "static/media/stone.png": "/exam-game/static/media/stone.6c63904907ceecf6e126.png",
+    "static/media/scissors.png": "/exam-game/static/media/scissors.de11ddf8cee3b45e3320.png",
+    "index.html": "/exam-game/index.html",
+    "main.0d936159.css.map": "/exam-game/static/css/main.0d936159.css.map",
+    "main.0988a86e.js.map": "/exam-game/static/js/main.0988a86e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d936159.css",
+    "static/js/main.0988a86e.js"
+  ]
+}
